@@ -23,6 +23,8 @@ print
 
 ## PROGRAM: 
 ```python 
+developed by: JEGADEESH S
+registered number :22004355
 import numpy as np
 n=int(input())
 l1,l2=[],[]
